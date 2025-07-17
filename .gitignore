@@ -1,0 +1,18 @@
+# Sanal ortam klasörü
+venv/
+
+# Python cache klasörleri
+__pycache__/
+
+# Büyük model ve veri dosyaları
+*.keras
+*.h5
+*.csv
+*.pyc
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Test görselleri
+test_images/
